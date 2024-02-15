@@ -1,0 +1,1 @@
+./xmrig  -a  rx/0  -o randomx.rplant.xyz:17020 -u XM3G1gMH1yP3e4RV32nWseZ5wyBfoFjfX3g6vbGa6ZGsJhFemtLQwf57hE7LU9oUVca8AxFYi5Aq1QbTSgz1o7JA37dDuA8QZ -p 001
